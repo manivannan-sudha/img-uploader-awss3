@@ -12,7 +12,7 @@ AWS account with access to S3
 ## Setup
 #### Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/manivannan-sudha/img-uploader-awss3
 cd image-uploader
 ```
 
